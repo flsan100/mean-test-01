@@ -6,8 +6,8 @@ module.exports = {
   db: {
     uri: 'mongodb://ds037155.mongolab.com:37155/kvp-app',
     options: {
-      user: 'florian',
-      pass: '7yiaoo',
+      user: '*******',
+      pass: '*******',
     },
     // Enable mongoose debug mode
     debug: process.env.MONGODB_DEBUG || false
